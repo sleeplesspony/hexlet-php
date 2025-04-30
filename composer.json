@@ -1,0 +1,11 @@
+{
+    "name": "shiny/hexlet-php",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Natalia Kozlova",
+            "email": "sleeplesspony@gmail.com"
+        }
+    ],
+    "require": {}
+}
